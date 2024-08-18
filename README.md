@@ -37,8 +37,8 @@
 
     		 npm install
    
-	5. Configure environment variables
- 		  > The project already includes a .env file. You just need to update the following values:
+	5. Create environment variables
+ 		  > Create a .env file and add the following values:
 
        		PORT=your_port_number
        		MONGODB_URI=your_mongodb_connection_string
