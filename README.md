@@ -30,7 +30,7 @@
 
 	1. Clone the repository
 
-    		git clone https://github.com/yourusername/minimix.git
+    		git clone https://github.com/Ervishalpathak7/minimix.git
     		cd minimix 
    
 	3. Install dependencies
